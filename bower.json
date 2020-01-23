@@ -1,0 +1,17 @@
+{
+  "name": "startcode.dev.reset ",
+  "homepage": "https://github.com/start-code-dev/startcode.dev.reset",
+  "authors": [
+    "Drasko Gomboc <drasko.gomboc@gmail.com>"
+  ],
+  "description": "reset all to default value",
+  "main": "src/_reset.scss",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "reset",
+    "reset stylesheet"
+  ],
+  "license": "MIT"
+}
